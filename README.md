@@ -1,4 +1,4 @@
-**MOCK INTERVIEW AGENT**
+**AI MOCK INTERVIEW AGENT (voice based)**
 
 **=>What does this platform offer?**
 
