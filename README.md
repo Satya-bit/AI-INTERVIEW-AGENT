@@ -14,9 +14,11 @@
 
 -Real-time coaching/candidate feedback.
 
+
 **=>System Architecture**
 
 <img width="1321" height="560" alt="image" src="https://github.com/user-attachments/assets/5dba41f3-bff9-42ab-b932-399b212a23e9" />
+
 
 **=>Steps:**
 
@@ -41,6 +43,7 @@
 10. Feedback and scores are displayed.
 
 So this way, the user gets a personalized experience based on the resume and job description. This also answers the questions: input needed, AI functionalities in the architecture, and outcomes.
+
 
 **=>Techstacks and libraries used**
 Python- For Backend
