@@ -45,6 +45,7 @@
 
 <img width="1878" height="837" alt="image" src="https://github.com/user-attachments/assets/b454d536-2250-4170-9734-d93d4a7fd37b" />
 
+
 **=>System Architecture**
 
 <img width="1321" height="560" alt="image" src="https://github.com/user-attachments/assets/5dba41f3-bff9-42ab-b932-399b212a23e9" />
