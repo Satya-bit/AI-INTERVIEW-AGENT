@@ -22,11 +22,19 @@
 
 <img width="1903" height="921" alt="image" src="https://github.com/user-attachments/assets/84a53172-4f05-4e8f-a021-86bc8331624f" />
 
+**Job Description from LinkedIn**
+
+<img width="662" height="662" alt="image" src="https://github.com/user-attachments/assets/cfe71d73-2d64-4ecd-a3d3-89a6ebb8e622" />
+
 
 **2) Upload the resume**
 
 
 <img width="1875" height="887" alt="image" src="https://github.com/user-attachments/assets/6162e623-27e2-48f0-ac36-d8a6ab059e0b" />
+
+**My Resume**
+
+<img width="836" height="811" alt="image" src="https://github.com/user-attachments/assets/53971ff8-8775-4819-80f8-4ce2df86b6f2" />
 
 
 **3) Select round**
