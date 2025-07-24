@@ -35,7 +35,7 @@
 <img width="1879" height="842" alt="image" src="https://github.com/user-attachments/assets/f8b5479b-05dc-47ec-87f0-3c228d2c5dea" />
 
 
-**4) Just vague answers- User can either record or submit text answers.**
+**4) The agent asks the question(voice is heard, this is done using Eleven Labs API, not possible to show this just by pictures, will upload a demo of this soon). Just vague answers- User can either record or submit text answers.**
 
 
 <img width="1884" height="906" alt="image" src="https://github.com/user-attachments/assets/847ca6a4-80e8-4351-b637-ddba68e0d4dc" />
@@ -53,7 +53,7 @@
 <img width="1902" height="892" alt="image" src="https://github.com/user-attachments/assets/8e1ff798-0b89-4a11-b48e-a65506cce6e5" />
 
 
-**7) Feedback with scores. I just answered Q4 with relevant answer so I get highest marks for this question. Rest I got almost very less marks or zero.**
+**7) Feedback with scores. I just answered Q3 with relevant answer so I get highest marks for this question. Rest I got zero marks for all questions with a feedback. In teh end teh user can see the total scores**
 
 
 <img width="1878" height="837" alt="image" src="https://github.com/user-attachments/assets/b454d536-2250-4170-9734-d93d4a7fd37b" />
