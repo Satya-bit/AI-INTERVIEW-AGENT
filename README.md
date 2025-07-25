@@ -25,7 +25,7 @@ Demo Link- https://drive.google.com/file/d/17-T8bA7h-7s3fD9Me5yYYSFDmRtUC4dL/vie
 
 <img width="1903" height="921" alt="image" src="https://github.com/user-attachments/assets/84a53172-4f05-4e8f-a021-86bc8331624f" />
 
-**Job Description from LinkedIn**
+**Job Description from LinkedIn which I entered**
 
 <img width="662" height="662" alt="image" src="https://github.com/user-attachments/assets/cfe71d73-2d64-4ecd-a3d3-89a6ebb8e622" />
 
